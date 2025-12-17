@@ -26,22 +26,25 @@ The To-Do Checklist App is a simple and efficient Django-based web application t
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yitbarek16/To-Do-App.git
-   cd todotask
 
 2. **Create and activate a virtual environment**:
      ```bash
      python -m venv venv
      source venv/bin/activate
+     
+3. **install the requirements**
+    ```bash
+    pip install -r requirement.txt
 
-3. **Run database migrations**:
+5. **Run database migrations**:
      ```bash
      python manage.py migrate
 
-4. **Start the development server**:
+6. **Start the development server**:
      ```bash
      python manage.py runserver
      
-5. **Access the application**:
+7. **Access the application**:
      Open your web browser and navigate to http://127.0.0.1:8000/.
 
 ## License
