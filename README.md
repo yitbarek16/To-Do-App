@@ -1,4 +1,4 @@
-# To-Do-App
+# To-Do Checklist Web App (Django)
 
 ## Overview
 
@@ -11,21 +11,15 @@ The To-Do Checklist App is a simple and efficient Django-based web application t
 - Delete completed or unnecessary tasks
 - Simple and user-friendly UI
 
----
-
 ## Tech Stack
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, Bootstrap
 - **Database**: SQLite (default with Django)
 
----
-
 ## Requirements
 
 - Python 3.x
 - Django 3.x or higher
-
----
 
 ## Setup and Installation
 
