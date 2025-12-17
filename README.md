@@ -1,25 +1,29 @@
 # To-Do-App
-To-Do Checklist App: A Django web app that helps users organize tasks efficiently by allowing them to create, edit, and delete tasks with a user-friendly interface.
+
+## Overview
+
+The To-Do Checklist App is a simple and efficient Django-based web application that helps users manage daily tasks. It allows users to create, update, and delete tasks through a clean and intuitive interface.
 
 ## Features
-- Add new tasks to the checklist.
-- Edit existing tasks to update details.
-- Delete completed or unnecessary tasks.
-- User-friendly and intuitive interface.
+
+- Create new tasks
+- Edit existing tasks
+- Delete completed or unnecessary tasks
+- Simple and user-friendly UI
 
 ---
 
-## Technologies Used
+## Tech Stack
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, Bootstrap
 - **Database**: SQLite (default with Django)
 
 ---
 
-## Prerequisites
-Before running the application, ensure you have the following installed:
+## Requirements
+
 - Python 3.x
-- Django 3.x or later
+- Django 3.x or higher
 
 ---
 
@@ -27,7 +31,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-checklist.git
+   git clone https://github.com/yitbarek16/To-Do-App.git
    cd todotask
 
 2. **Create and activate a virtual environment**:
@@ -45,3 +49,12 @@ Before running the application, ensure you have the following installed:
      
 5. **Access the application**:
      Open your web browser and navigate to http://127.0.0.1:8000/.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+Let's stay in touch! Feel free to connect with me on Linkedin:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yitbarektesfaye)
