@@ -32,7 +32,7 @@ The To-Do Checklist App is a simple and efficient Django-based web application t
      python -m venv venv
      source venv/bin/activate
      
-3. **install the requirements**
+3. **Install the requirement**
     ```bash
     pip install -r requirement.txt
 
